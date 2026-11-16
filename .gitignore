@@ -1,0 +1,11 @@
+# Datos: no se publican (base de datos, fotos de jugadores y escudos)
+*.db
+assets/jugadores/
+assets/equipos/
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
